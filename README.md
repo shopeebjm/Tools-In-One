@@ -39,7 +39,8 @@ $ bash shopeebjm.sh
 
 - Jika Ingin Menjalankan Tools Yang Kalian Install
 Silahkan Ketik:
-- 00 Kemudian
+- 00
+Kemudian
 - ls
 
 # Social Media
