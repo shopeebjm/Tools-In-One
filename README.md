@@ -20,8 +20,27 @@ Unduh Aplikasi Termux Nya Dibawah Ini
 
 [![Android](https://img.shields.io/badge/Android-15-yellow.svg?style=flat)](https://developer.android.com/about/versions/15?hl=id)
 
-Jika Ingin Menjalankan Tools Yang Kalian Install
-Silahkan Ketik 00 LALU KETIK ls
+# Installasi
+```
+$ pkg update && pkg upgrade -y
+```
+```
+$ pkg install git
+```
+```
+$ git clone http://github.com/shopeebjm/Tools-In-One.git
+```
+```
+$ cd Tools-In-One
+```
+```
+$ bash shopeebjm.sh
+```
+
+- Jika Ingin Menjalankan Tools Yang Kalian Install
+Silahkan Ketik:
+- 00 Kemudian
+- ls
 
 # Social Media
 
